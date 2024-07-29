@@ -4,13 +4,13 @@
 
 this challenge should be a walk in the park
 
-touch-grass-2.be.ax
+[touch-grass-2.be.ax](https://touch-grass-2.be.ax)
 
 ## Solution
 
 - Following the provided website link lands us on this page:
 
-put website image
+![Challenge webpage](challenge-site.png)
 
 - This challenge requires us to, quite literally, touch grass. I opened the website
 on my phone and allowed it to access my location. I was then given a few actual locations
@@ -21,7 +21,7 @@ I don't have photographic evidence (for obvious reasons), but I can assure you t
 touch grass. The website updated to the following after I completed my journey, which revealed
 the flag:
 
-flag image goes here
+![Flag image](flag.jpg)
 
 ## Flag
 
