@@ -19,7 +19,7 @@ it reads a message from a CSV file, encrypts it, then sends the encrypted messag
 network in a pair of packets. The first packet contains the encrypted message, and the second packet
 contains the <code>keys</code> array that was used in the encryption.
 
-- I opened Wireshark with the <code>challenge.pcap</code> file and examined the TCP packets. Sure
+- I opened [Wireshark](https://www.wireshark.org/) with the <code>challenge.pcap</code> file and examined the TCP packets. Sure
 enough, the data of each of these packets was an array of numbers representing either an encrypted
 message or that message's keys. I copied the data from each TCP packet and pasted it into a text
 file that you can view [here](packet_data.txt).
